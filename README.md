@@ -1,8 +1,6 @@
 Hi there, I'm software-Malware 👋
 <div align="center">
 
-
-#!/bin/bash
 # 🔐 Security Researcher | Bug Hunter | Developer
 echo "🚀 Welcome to my cyber world!"
 echo "💻 Initializing security protocols..."
