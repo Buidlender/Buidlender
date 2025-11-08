@@ -1,9 +1,6 @@
 Hi there, I'm software-Malware 👋
 <div align="center">
 
-https://via.placeholder.com/800x200/000000/00FF00?text=%F0%9F%94%92+SOFTWARE-MALWARE+%F0%9F%94%93+Security+Researcher+%2526+Ethical+Hacker
-<img src="https://readme-typing-svg.herokuapp.com?font=Hack&size=30&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Security+Researcher;Bug+Hunter;Python+Developer;Open+Source+Contributor;Cyber+Security+Enthusiast;Malware+Analyst" alt="Typing SVG" /></div><div align="center">
-bash
 
 #!/bin/bash
 # 🔐 Security Researcher | Bug Hunter | Developer
