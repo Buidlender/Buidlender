@@ -8,39 +8,6 @@ echo "🔍 Scanning for vulnerabilities..."
 whoami
 # 👤 software-Malware | Security Analyst
 echo "✅ System secured. Ready for mission."
-
-</div>
-
-
-https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&label=
-https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&label=
-https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&label=
-https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&label=
-</div></div>
-📊 Security Dashboard
-<div align="center"><div class="hacker-stats" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem;"><div class="stat-terminal" style="background: linear-gradient(135deg, #0a0a0a 0%, #1a1a2e 100%); padding: 1.5rem; border-radius: 12px; min-width: 300px; border: 1px solid #00FF00; box-shadow: 0 8px 25px rgba(0,255,0,0.15); position: relative;"> <div style="position: absolute; top: 10px; left: 10px; display: flex; gap: 5px;"> <div style="width: 12px; height: 12px; border-radius: 50%; background: #ff5f57;"></div> <div style="width: 12px; height: 12px; border-radius: 50%; background: #ffbd2e;"></div> <div style="width: 12px; height: 12px; border-radius: 50%; background: #28ca42;"></div> </div> <a href="https://github.com/Rezorya-Bug"> <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Rezorya-Bug&show_icons=true&theme=dark&include_all_commits=true&count_private=true&bg_color=45,0a0a0a,1a1a2e&title_color=00ff00&text_color=ffffff&icon_color=00ff00&border_color=00ff00&border_radius=10" style="border-radius: 8px;"/> </a> </div><div class="stat-terminal" style="background: linear-gradient(135deg, #0a0a0a 0%, #1a1a2e 100%); padding: 1.5rem; border-radius: 12px; min-width: 300px; border: 1px solid #00FF00; box-shadow: 0 8px 25px rgba(0,255,0,0.15); position: relative;"> <div style="position: absolute; top: 10px; left: 10px; display: flex; gap: 5px;"> <div style="width: 12px; height: 12px; border-radius: 50%; background: #ff5f57;"></div> <div style="width: 12px; height: 12px; border-radius: 50%; background: #ffbd2e;"></div> <div style="width: 12px; height: 12px; border-radius: 50%; background: #28ca42;"></div> </div> <a href="https://github.com/Rezorya-Bug"> <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rezorya-Bug&layout=compact&langs_count=8&theme=dark&bg_color=45,0a0a0a,1a1a2e&title_color=00ff00&text_color=ffffff&border_color=00ff00&border_radius=10" style="border-radius: 8px;"/> </a> </div></div>
-<div class="hacker-trophies" style="background: linear-gradient(135deg, #0a0a0a 0%, #1a1a2e 100%); padding: 2rem; border-radius: 12px; margin: 1rem 0; border: 1px solid #00FF00; box-shadow: 0 8px 25px rgba(0,255,0,0.15);"> <img src="https://github-profile-trophy.vercel.app/?username=Rezorya-Bug&theme=darkhub&no-frame=true&no-bg=false&margin-w=15&row=2&column=4" alt="GitHub Trophies" style="border-radius: 8px;"/> </div>
-<div class="hacker-streak" style="background: linear-gradient(135deg, #0a0a0a 0%, #1a1a2e 100%); padding: 2rem; border-radius: 12px; border: 1px solid #00FF00; box-shadow: 0 8px 25px rgba(0,255,0,0.15);"> [![GitHub Streak](https://streak-stats.demolab.com/?user=Rezorya-Bug&theme=dark&background=45%2C0a0a0a%2C1a1a2e&fire=00ff00&currStreakNum=00ff00&ring=00ff00&sideNums=00ff00&sideLabels=00ff00&dates=ffffff)](https://git.io/streak-stats) </div></div>
-🌐 Network Connections
-<div align="center"><div class="hacker-social" style="display: flex; justify-content: center; gap: 1rem; flex-wrap: wrap;">
-
-https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&label=Follow%2520%2540Hackathon3301
-https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&label=Rezorya--Bug
-https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&label=Connect
-https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&label=defenshi989@gmail.com
-</div></div>
-📡 Contact Protocol
-<div align="center" class="hacker-contact" style="background: linear-gradient(135deg, #0a0a0a 0%, #1a1a2e 100%); padding: 2rem; border-radius: 15px; margin: 1rem 0; border: 1px solid #00FF00; box-shadow: 0 10px 30px rgba(0,255,0,0.2);">
-📧 ENCRYPTED COMMUNICATION CHANNEL: defenshi989@gmail.com
-
-<div class="hacker-views" style="background: rgba(0,255,0,0.2); padding: 0.8rem 1.5rem; border-radius: 25px; display: inline-block; border: 1px solid #00FF00;"> <img src="https://komarev.com/ghpvc/?username=Rezorya-Bug&label=PROFILE%20ACCESSES&color=00ff00&style=for-the-badge" alt="Profile views" /> </div></div>
-🎯 Active Operations
-<div align="center"><div class="hacker-projects" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 1.5rem; margin: 2rem 0;"><div class="operation-terminal" style="background: linear-gradient(135deg, rgba(255,107,107,0.1) 0%, rgba(255,107,107,0.2) 100%); padding: 1.5rem; border-radius: 12px; border: 1px solid #ff6b6b; box-shadow: 0 8px 25px rgba(255,107,107,0.2);">
-🔐 SECURITY OPERATIONS
-<div class="operation-badges"> [![Malware Analyzer](https://img.shields.io/badge/🔍_MALWARE_ANALYZER-FF6B6B?style=for-the-badge&logo=shield-check&logoColor=white)]() [![Vulnerability Scanner](https://img.shields.io/badge/📡_VULNERABILITY_SCANNER-4ECDC4?style=for-the-badge&logo=search&logoColor=white)](https://github.com/Rezorya-Bug) [![Pentesting Framework](https://img.shields.io/badge/⚡_PENTESTING_FRAMEWORK-45B7D1?style=for-the-badge&logo=terminal&logoColor=white)](https://github.com/Rezorya-Bug) </div></div><div class="operation-terminal" style="background: linear-gradient(135deg, rgba(150,206,180,0.1) 0%, rgba(150,206,180,0.2) 100%); padding: 1.5rem; border-radius: 12px; border: 1px solid #96CEB4; box-shadow: 0 8px 25px rgba(150,206,180,0.2);">
-🐍 PYTHON OPERATIONS
-<div class="operation-badges"> [![Automation Scripts](https://img.shields.io/badge/🤖_AUTOMATION_SCRIPTS-96CEB4?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Rezorya-Bug) [![Security Scripts](https://img.shields.io/badge/🛡️_SECURITY_SCRIPTS-FAE100?style=for-the-badge&logo=lock&logoColor=black)](https://github.com/Rezorya-Bug) [![Web Scrapers](https://img.shields.io/badge/🕷️_WEB_SCRAPERS-FF6B6B?style=for-the-badge&logo=web&logoColor=white)](https://github.com/Rezorya-Bug) </div></div></div></div>
-💻 Security Mantra
 <div align="center" class="hacker-quote" style="background: linear-gradient(135deg, #0f0c29, #302b63, #24243e); padding: 2.5rem; border-radius: 15px; margin: 2rem 0; border: 1px solid #00FF00; box-shadow: 0 10px 30px rgba(0,255,0,0.2); position: relative;">
 ascii
 
