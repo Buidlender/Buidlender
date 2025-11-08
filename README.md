@@ -8,14 +8,6 @@ echo "🔍 Scanning for vulnerabilities..."
 whoami
 # 👤 software-Malware | Security Analyst
 echo "✅ System secured. Ready for mission."
-<div align="center" class="hacker-quote" style="background: linear-gradient(135deg, #0f0c29, #302b63, #24243e); padding: 2.5rem; border-radius: 15px; margin: 2rem 0; border: 1px solid #00FF00; box-shadow: 0 10px 30px rgba(0,255,0,0.2); position: relative;">
-ascii
-
-╔══════════════════════════════════════╗
-║   "CODE IS LIKE HUMOR. WHEN YOU      ║
-║    HAVE TO EXPLAIN IT, IT'S BAD."    ║
-║             - CORY HOUSE             ║
-╚══════════════════════════════════════╝
 
 
 🚀 SYSTEM STATUS: OPERATIONAL | THREAT LEVEL: LOW
