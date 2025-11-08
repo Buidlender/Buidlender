@@ -10,25 +10,7 @@ whoami
 echo "✅ System secured. Ready for mission."
 
 </div>
-🚀 About Me
-<div class="hacker-card" align="center" style="background: linear-gradient(135deg, #0a0a0a 0%, #1a1a2e 50%, #16213e 100%); padding: 2rem; border-radius: 15px; margin: 1rem 0; box-shadow: 0 10px 30px rgba(0,255,0,0.2); border: 1px solid #00FF00; position: relative; overflow: hidden;"> <div style="position: absolute; top: 0; left: 0; width: 100%; height: 2px; background: linear-gradient(90deg, transparent, #00FF00, transparent);"></div> <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1rem; text-align: left;"> <div> <h3 style="color: #00FF00; margin-bottom: 1rem;">🔭 <strong>Current Mission</strong></h3> <p style="color: #ffffff;">Malware-Crypto Security Tool</p> </div> <div> <h3 style="color: #00FF00; margin-bottom: 1rem;">🌱 <strong>Specialization</strong></h3> <p style="color: #ffffff;">Cybersecurity & Bug Hunting</p> </div> <div> <h3 style="color: #00FF00; margin-bottom: 1rem;">👯 <strong>Collaboration</strong></h3> <p style="color: #ffffff;">Security Tools & Open Source</p> </div> </div> <div style="margin-top: 1.5rem; padding: 1rem; background: rgba(0,255,0,0.1); border-radius: 8px; border-left: 3px solid #00FF00;"> <p style="color: #ffffff; margin: 0;"> <strong>⚡ Fun fact:</strong> I love exploring new security vulnerabilities and developing tools to find them </p> </div> </div>
-🛠️ Cyber Arsenal
-<div align="center" class="tech-stack"><div class="hacker-category" style="background: linear-gradient(135deg, rgba(55,118,171,0.2) 0%, rgba(55,118,171,0.4) 100%); padding: 1.5rem; border-radius: 12px; margin: 0.5rem; border: 1px solid #3776AB; box-shadow: 0 4px 15px rgba(55,118,171,0.3);">
-🔧 <span style="color: #3776AB;">Development Tools</span>
 
-https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&label=
-https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&label=
-https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&label=
-https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white&label=
-</div><div class="hacker-category" style="background: linear-gradient(135deg, rgba(255,108,55,0.2) 0%, rgba(255,108,55,0.4) 100%); padding: 1.5rem; border-radius: 12px; margin: 0.5rem; border: 1px solid #FF6C37; box-shadow: 0 4px 15px rgba(255,108,55,0.3);">
-🛡️ <span style="color: #FF6C37;">Security Suite</span>
-
-https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white&label=
-https://img.shields.io/badge/Metasploit-FF6C37?style=for-the-badge&logo=metasploit&logoColor=white&label=
-https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white&label=
-https://img.shields.io/badge/Burp_Suite-FF6B6B?style=for-the-badge&logo=burpsuite&logoColor=white&label=
-</div><div class="hacker-category" style="background: linear-gradient(135deg, rgba(36,150,237,0.2) 0%, rgba(36,150,237,0.4) 100%); padding: 1.5rem; border-radius: 12px; margin: 0.5rem; border: 1px solid #2496ED; box-shadow: 0 4px 15px rgba(36,150,237,0.3);">
-🚀 <span style="color: #2496ED;">Infrastructure</span>
 
 https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&label=
 https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&label=
