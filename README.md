@@ -29,3 +29,32 @@ https://github.com/Rezorya-Bug/Rezorya-Bug/blob/output/github-contribution-grid-
 
 <br />
 
+<!-- ANIMATED HEADER -->
+<div align="center">
+  
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=🔐+Security+Researcher;🐛+Bug+Bounty+Hunter;💻+Malware+Analyst;🚀+Code+Breaker;⚡+System+Intrusion+Expert)
+  
+</div>
+
+<!-- MATRIX RAIN EFFECT -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF00,50:00CC00,100:009900&height=200&section=header&text=SOFTWARE-MALWARE&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Cyber%20Security%20%7C%20Threat%20Intelligence%20%7C%20Exploit%20Development&descSize=15&descAlignY=60" width="100%"/>
+</div>
+
+<!-- SYSTEM STATUS DASHBOARD -->
+<div align="center">
+  
+  ```bash
+  > INITIALIZING SECURE CONNECTION...
+  > BYPASSING FIREWALL...
+  > ACCESS GRANTED ✅
+
+
+</div>
+
+<!-- PROFILE VIEWS COUNTER WITH ANIMATION -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=software-Malware&label=SYSTEM%20INTRUSIONS%20DETECTED&color=00FF00&style=for-the-badge&labelColor=000000" alt="Profile Views" />
+</div>
+
+  
