@@ -11,7 +11,7 @@
 <div align="center">
 
 <!-- Animated Matrix Rain Header -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:000000,50:003300,100:00FF00&text=software-Malware&fontColor=00FF00&fontSize=50&animation=twinkling&stroke=00FF00&strokeWidth=2" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:000000,50:003300,100:00FF00&text=Buidlender&fontColor=00FF00&fontSize=50&animation=twinkling&stroke=00FF00&strokeWidth=2" />
 
 <!-- Binary Glitch Intro -->
 <pre style="background: linear-gradient(90deg, #000000 0%, #001100 50%, #000000 100%); padding: 20px; border-radius: 10px; border: 2px solid #00FF00; box-shadow: 0 0 20px rgba(0,255,0,0.5); margin: 20px 0;">
